@@ -97,7 +97,7 @@ buttons = [
             text="✗ sᴜᴘᴘᴏʀᴛ ✗", url="https://t.me/TitaniumChats"
         ),
         InlineKeyboardButton(
-            text="✗ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✗", url="https://t.me/TITANIUM_XYZ"
+            text="✗ ᴄʜᴀɴɴᴇʟ ✗", url="https://t.me/TITANIUM_XYZ"
         ),
     ],
 ]
